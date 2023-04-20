@@ -15,7 +15,7 @@ Me chamo André Toti, tenho 30 anos, resido em São Paulo-SP-Brasil. Através de
 
 ### Vou usar esse README para contar minha jornada:
 
-- Julho de 2020 - Tive uma ideia com alguns amigos sobre um App Mobile para Arquitetos. - Infelizmente a ideia acabou não indo adiante, mas continuei conversando com meu grande amigo  [@quevicente] (https://www.github.com/quevicente)
+- Julho de 2020 - Tive uma ideia com alguns amigos sobre um App Mobile para Arquitetos. - Infelizmente a ideia acabou não indo adiante, mas continuei conversando com meu grande amigo  ([@quevicente] https://www.github.com/quevicente)
 - Meus primeiros códigos em HTML. :heart_eyes:
 - Estudos em JavaScript - HTML5 - CSS3.
 - Primeiros contatos com Swift. :heart_eyes:
