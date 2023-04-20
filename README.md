@@ -13,7 +13,7 @@ Me chamo André Toti, tenho 30 anos, resido em São Paulo-SP-Brasil. Através de
 
 ---
 
-- Vou usar esse README para contar minha jornada:
+### Vou usar esse README para contar minha jornada:
 
 - Meus primeiros códigos em HTML. :heart_eyes:
 - Estudos em JavaScript - HTML5 - CSS3.
