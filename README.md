@@ -1,8 +1,8 @@
 <div id="header" aling="center"> 
 
-### Minha Jornada: Em busca de ser um Dev
+# Minha Jornada: Em busca de ser um Dev
 
-# Ola! Bem vindo a minha jornada! :wave:
+### Ola! Bem vindo a minha jornada! :wave:
 
 </div>
 
