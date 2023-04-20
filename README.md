@@ -15,7 +15,7 @@ Me chamo André Toti, tenho 30 anos, resido em São Paulo-SP-Brasil. Através de
 
 ### Vou usar esse README para contar minha jornada:
 
-- Julho de 2020: Tive uma ideia com alguns amigos sobre um App Mobile para Arquitetos. - Infelizmente a ideia acabou não indo adiante, mas continuei conversando com meu grande amigo ![Vicente]([https://github.com/quevicente]).
+- Julho de 2020: Tive uma ideia com alguns amigos sobre um App Mobile para Arquitetos. - Infelizmente a ideia acabou não indo adiante, mas continuei conversando com um grande amigo sobre o assunto.
 - Março de 2022: Conheci a pessoa que mudaria todo o caminho dessa jornada, que me incentivaria em todos os passos que foram e ainda vão acontecer.
 - Abril de 2022: Me inscrevi em um Bootcamp da dio.me do Carrefour sobre Git, JavaScript, React, HTML e CSS. - Foi meu primeiro contato efetivo com o mundo do desenvolvimento, o que me fez realmente ser um desenvolvedor.
 - Maio de 2022: Comecei aprofundar minhas pesquisas sobre desenvolvimento de sistemas.
